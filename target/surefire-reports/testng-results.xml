@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="50" started-at="2022-03-08T15:20:09 IST" finished-at="2022-03-08T15:20:09 IST">
+  <suite name="Suite" duration-ms="54" started-at="2022-03-13T16:32:19 IST" finished-at="2022-03-13T16:32:19 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="50" started-at="2022-03-08T15:20:09 IST" finished-at="2022-03-08T15:20:09 IST">
+    <test name="Test" duration-ms="54" started-at="2022-03-13T16:32:19 IST" finished-at="2022-03-13T16:32:19 IST">
       <class name="selenum123.com.selenuim.automation.framewrok.Demo">
-        <test-method status="PASS" signature="demo()[pri:0, instance:selenum123.com.selenuim.automation.framewrok.Demo@dc24521]" name="demo" duration-ms="6" started-at="2022-03-08T15:20:09 IST" finished-at="2022-03-08T15:20:09 IST">
+        <test-method status="PASS" signature="demo()[pri:0, instance:selenum123.com.selenuim.automation.framewrok.Demo@dc24521]" name="demo" duration-ms="6" started-at="2022-03-13T16:32:19 IST" finished-at="2022-03-13T16:32:19 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
