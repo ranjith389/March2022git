@@ -6,6 +6,9 @@ public class Demo {
    @Test
 	public void demo() {
 		System.out.println("@Test: demo()");
+		System.out.println("@Test: hello()");
+		System.out.println("@Test: some()");
+
 
 	}
 	
